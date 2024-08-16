@@ -4,11 +4,11 @@
 
 ---
 
-### Embedded Controller by Young-Keun Kim, Handong Global University 
+## Embedded Controller (2022-2023) by Young-Keun Kim, Handong Global University 
 
 Author:  Young-Keun Kim
 
-Date:  Updated 2021-10-5
+Date:  Updated 2021-10-5 / 2023-10
 
 
 
@@ -16,7 +16,6 @@ Date:  Updated 2021-10-5
 
 
 
-This is a private github repository for Embedded Controller Class that contains my firmware library files.
 
 
 
