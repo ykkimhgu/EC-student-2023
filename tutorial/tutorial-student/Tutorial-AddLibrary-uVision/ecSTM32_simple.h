@@ -10,7 +10,7 @@ Description      : Distributed to Students for Simple Tutorials
 
 
 #include "stm32f411xe.h"
-
+#include "ecPinNames.h"
 
 #ifndef __ECSIMPLE_H
 #define __ECSIMPLE_H
